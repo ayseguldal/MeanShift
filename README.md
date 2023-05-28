@@ -13,3 +13,6 @@ Her bir iterasyonda, daha yüksek yoğunluklu bölgelere kaydırılır.
 - Çok yavaş
 - Pencere boyutu/yarıçapı -r- seçimi önemsiz olabilir.
 - En büyük dezavantajı, hesaplama açısından maliyetli olmasıdır. ( O(n²) )
+
+
+![MeanShift](https://media.geeksforgeeks.org/wp-content/uploads/20190429212410/370.png)
