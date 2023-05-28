@@ -3,6 +3,10 @@ Mean shift algoritması yani ortalama kaydırmalı bir kümeleme algoritmasıdı
 Bu algoritma bir yoğunluk fonksiyonunun maksimumlarını bulmak için parametrik olmayan bir öznitelik uzayı matematiksel analiz tekniğidir.
 Her bir iterasyonda, daha yüksek yoğunluklu bölgelere kaydırılır.
 
+![MeanShift](https://media.geeksforgeeks.org/wp-content/uploads/20190429212410/370.png)
+
+
+
 # AVANTAJLARI
 - Küme sayısının önceden belirtilmesi gerekmez.
 - Prosedür, tek bir parametrenin seçimine dayanır: bant genişliği.
@@ -15,4 +19,3 @@ Her bir iterasyonda, daha yüksek yoğunluklu bölgelere kaydırılır.
 - En büyük dezavantajı, hesaplama açısından maliyetli olmasıdır. ( O(n²) )
 
 
-![MeanShift](https://media.geeksforgeeks.org/wp-content/uploads/20190429212410/370.png)
